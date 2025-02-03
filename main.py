@@ -1,5 +1,4 @@
 import subprocess
-import tiheme
 import os
 import sys
 
